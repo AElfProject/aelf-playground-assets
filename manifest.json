@@ -1,6 +1,6 @@
 {
-  "short_name": "SolPg",
-  "name": "Easily Build, Deploy and Test Solana Programs",
+  "short_name": "AElf Playground",
+  "name": "Easily Build, Deploy and Test AElf Smart Contracts",
   "icons": [
     {
       "src": "favicon.ico",
