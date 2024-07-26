@@ -1,6 +1,6 @@
 {
-  "short_name": "AElf Playground",
-  "name": "Easily Build, Deploy and Test AElf Smart Contracts",
+  "short_name": "aelf Playground",
+  "name": "Easily Build, Deploy and Test aelf Smart Contracts",
   "icons": [
     {
       "src": "favicon.ico",
